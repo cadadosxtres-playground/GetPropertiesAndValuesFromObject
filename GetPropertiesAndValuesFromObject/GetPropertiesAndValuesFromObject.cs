@@ -5,7 +5,7 @@ using System.Text;
 using System.Reflection;
 
 /*
- * Programa to get a list of properties and value from Object
+ * Getting a Properties List and their values in C#
  */
 
 namespace GetPropertiesAndValuesFromObject
